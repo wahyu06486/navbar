@@ -1,0 +1,45 @@
+
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      /* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+    padding: 60px 15px 0;
+  }
+
+/* .mb-3 {
+    border-radius: 2px ;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 0px solid rgb(151, 143, 143)
+    } */
+
+    /* button {
+        width:100%;
+        background-color: #848b84;
+        color: rgb(247, 247, 247);
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 3s, box-shadow 1s; */
+    /* } */
+    /* button:hover {
+        background-color: #d4cdcf;
+        box-shadow: 5px 5px 5px 5px rgb(122, 116, 116);
+    } */
